@@ -34,3 +34,4 @@ npm run build
 # vue-my-blog
 # vue-my-blog
 # vue-my-blog
+# vuemyblog
